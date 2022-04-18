@@ -8,3 +8,5 @@ linkdin : https://www.linkedin.com/in/%EB%8C%80%ED%98%84-%EC%A0%95-24328a212/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Daniel&layout=compact)](https://github.com/Jeong-Daniel/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Daniel)](https://github.com/Jeong-Daniel/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeong-Daniel&count_bg=%230095EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
