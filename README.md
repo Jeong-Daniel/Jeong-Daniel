@@ -17,5 +17,5 @@ I'm now currently looking jobs for back-end development / Big data engineer and 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Daniel)](https://github.com/Jeong-Daniel/github-readme-stats)
 
 ### 📫 How to reach me? Contacts
-[![Gmail 로고](https://img.shields.io/badge/Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](matilto:empcik@pusan.ac.kr)
+[![Gmail 로고](https://img.shields.io/badge/Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empcik@pusan.ac.kr)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%8C%80%ED%98%84-%EC%A0%95-24328a212/)
