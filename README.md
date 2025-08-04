@@ -4,12 +4,6 @@
 
 I'm now currently looking jobs for back-end development / Big data engineer and I'm learning about Data science and machine learning mathematics. 
 
-|Type|Date|Contents|Organization|
-|----|----|--------|------------|
-|Education|2015.02~2022.08|Aerospace Enginnering & BigData Engineering|Pusan National University|
-|S.Korea Army|2016.01~2017.10|GOP/Infantry|22 Division|
-|Training|2022.03~2022.08|K-Digital Training AI-Based Project|Pusan National University & Ministry of Employment and Labor|
-
 ### Languages
 <img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 
