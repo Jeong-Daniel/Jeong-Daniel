@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeong-Daniel&count_bg=%230095EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-👋 Hello! My name is Jeong_Daehyeon or English name is Daniel Jeong. My major is Aerospace Engineering and Second major is BigData Engineering. I usually perform data analysis/science using Python with Pandas, Numpy, Scikit-learn. and also Computer vision and deep learning with OpenCV and Pytorch.  
+👋 Hello! My name is Jeong_Daehyeon. My major is Aerospace Engineering and Second major is BigData Engineering. I usually perform data analysis/science using Python with Pandas, Numpy, Scikit-learn. and also Computer vision and deep learning with OpenCV and Pytorch.  
 
 I'm now currently looking jobs for back-end development / Big data engineer and I'm learning about Data science and machine learning mathematics. 
 
