@@ -10,6 +10,6 @@ I'm now currently looking jobs for back-end development / Big data engineer and 
 
 ### 📫 How to reach me? Contacts
 [![Gmail 로고](https://img.shields.io/badge/Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empcik@pusan.ac.kr)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/daniel-jeong-24328a212/)](https://www.linkedin.com/in/daniel-jeong-24328a212/)
 
 And here is my [PR page](https://jeong-daniel.github.io/about/)
-
